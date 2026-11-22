@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <RootNamespace>BatLint.Core</RootNamespace>
+    <AssemblyName>BatLint.Core</AssemblyName>
+    <Deterministic>true</Deterministic>
+    <!-- 规则库是唯一资产，不依赖 WinForms / Scintilla，CLI 与 UI 共用 -->
+  </PropertyGroup>
+
+</Project>
