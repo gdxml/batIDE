@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="BatLint.Core/BatLint.Core.csproj" />
+  <Project Path="BatLint.Cli/BatLint.Cli.csproj" />
+  <Project Path="batIDE48/batIDE48.csproj" />
+</Solution>
